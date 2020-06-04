@@ -10,7 +10,6 @@
 Bouquet::Bouquet(bool is_in_water_)
 {
     is_in_water = is_in_water_;
-    Flowers_All_To();
 }
 
 void Bouquet::Add_Flower(const Flower& flower)
