@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/mbt50/Desktop/laba6/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE    -g   -std=gnu++14 -o CMakeFiles\\Project6.dir\\main.cpp.obj -c C:\\Users\\mbt50\\Desktop\\laba6\\main.cpp",
+  "file": "C:/Users/mbt50/Desktop/laba6/main.cpp"
+},
+{
+  "directory": "C:/Users/mbt50/Desktop/laba6/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE    -g   -std=gnu++14 -o CMakeFiles\\Project6.dir\\flower.cpp.obj -c C:\\Users\\mbt50\\Desktop\\laba6\\flower.cpp",
+  "file": "C:/Users/mbt50/Desktop/laba6/flower.cpp"
+},
+{
+  "directory": "C:/Users/mbt50/Desktop/laba6/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE    -g   -std=gnu++14 -o CMakeFiles\\Project6.dir\\bouquet.cpp.obj -c C:\\Users\\mbt50\\Desktop\\laba6\\bouquet.cpp",
+  "file": "C:/Users/mbt50/Desktop/laba6/bouquet.cpp"
+}
+]
